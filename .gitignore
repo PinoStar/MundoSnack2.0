@@ -1,0 +1,5 @@
+# Ignorar la carpeta backend cuando estés en la rama frontend
+/backend/
+
+# Ignorar la carpeta frontend cuando estés en la rama backend
+/frontend/
